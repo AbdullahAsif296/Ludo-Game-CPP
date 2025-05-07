@@ -9,7 +9,6 @@
 
 A modern implementation of the classic Ludo board game using C++ and SFML.
 
-![Game Screenshot](images/window-1.jpg)
 
 </div>
 
@@ -160,10 +159,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@YourTwitter](https://twitter.com/YourTwitter) - email@example.com
+M.Abdullah Asif - abdullah.asif2966.com
 
 Project Link: [https://github.com/YourUsername/Ludo-Game-CPP](https://github.com/YourUsername/Ludo-Game-CPP)
 
 ---
 
-⭐️ From [YourUsername](https://github.com/YourUsername)
+⭐️ From [YourUsername](https://github.com/AbdullahAsif296)

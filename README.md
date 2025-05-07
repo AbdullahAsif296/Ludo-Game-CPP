@@ -57,11 +57,12 @@ Before you begin, ensure you have the following installed:
 
 ### Linux
 
-<<<<<<< HEAD
+
 ```bash
 sudo apt-get update
 sudo apt-get install g++ make libsfml-dev
 ```
+
 
 
 ### macOS
@@ -159,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-M.Abdullah Asif - abdullah.asif2966.com
+M.Abdullah Asif - abdullah.asif2966@gmail.com
 
 Project Link: [https://github.com/YourUsername/Ludo-Game-CPP](https://github.com/YourUsername/Ludo-Game-CPP)
 

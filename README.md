@@ -58,10 +58,12 @@ Before you begin, ensure you have the following installed:
 
 ### Linux
 
+<<<<<<< HEAD
 ```bash
 sudo apt-get update
 sudo apt-get install g++ make libsfml-dev
 ```
+
 
 ### macOS
 

@@ -1,0 +1,26 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+ludo
+ludo_game
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows specific files
+*Zone.Identifier
+*Zone.Identifier:Zone.Identifier
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 

@@ -30,8 +30,8 @@ A C++ implementation of the classic Ludo board game using SFML for graphics and 
 2. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd <repository-name>
+   git clone https://github.com/AbdullahAsif296/Ludo-Game-CPP.git
+   cd Ludo-Game-CPP
    ```
 
 3. Build the project:
